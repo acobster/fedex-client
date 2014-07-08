@@ -1,0 +1,1 @@
+<?php class ShippingError extends RunTimeException {} ?>
