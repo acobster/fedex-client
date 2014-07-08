@@ -1,4 +1,10 @@
+Get the code:
+=============
+
+    $ git clone git@bitbucket.org:acobster/fedexclient.git
+
 Example usage:
+==============
 
     <?php
 
@@ -24,3 +30,9 @@ Example usage:
       }
 
     ?>
+
+Tests:
+======
+
+    $ cd path/to/repo
+    $ phpunit .
