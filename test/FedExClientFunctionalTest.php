@@ -51,7 +51,7 @@ class FedExClientFunctionalTest extends PHPUnit_Framework_TestCase {
         'PostalCode' => '98402',
         'CountryCode' => 'US',
       ),
-      'packagingType' => 'YOUR_PACKAGING',
+      'packagingType' => 'FEDEX_BOX',
       'weight' => 2.1,
     ),
     array(
@@ -62,7 +62,7 @@ class FedExClientFunctionalTest extends PHPUnit_Framework_TestCase {
         'PostalCode' => '95824',
         'CountryCode' => 'US',
       ),
-      'packagingType' => 'YOUR_PACKAGING',
+      'packagingType' => 'FEDEX_BOX',
       'weight' => 15.6,
     ),
   );

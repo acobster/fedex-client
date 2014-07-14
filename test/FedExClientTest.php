@@ -16,7 +16,7 @@ class FedExClientTest extends PHPUnit_Framework_TestCase {
     'CountryCode' => 'US',
   );
 
-  protected $packagingType = 'BOX';
+  protected $packagingType = 'YOUR_PACKAGING';
 
   protected $weight = 12;
 

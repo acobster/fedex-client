@@ -49,7 +49,7 @@ class FedExClient {
    * The password for the FedEx developer account
    * @var string
    */
-  public static $password = 'Pine4pplefeddream';
+  public static $password = '06Qbie6uMbsqmO8tDkqWSzO6i';
 
   /**
    * The FedEx shipping account number
