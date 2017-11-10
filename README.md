@@ -1,7 +1,7 @@
 Get the code:
 =============
 
-    $ git clone git@bitbucket.org:acobster/fedexclient.git
+    $ git clone git@github.com:acobster/fedexclient.git
 
 Example usage:
 ==============
